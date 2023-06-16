@@ -16,6 +16,3 @@ A collection of user-inscribed libraries available on the Bitcoin blockchain
 | matter-js 0.19.0   | [Link](https://ordinals.com/content/9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0)            |
 | glsl-canvas.min.js     | [Link](https://ordinals.com/content/aeb29dfe6396589bd501f2be3478202a6ed75989cfc5ff49dd0d704b012c00eci0)            |
 
-
-Ordinal 
-[ordinal-collections](https://github.com/ordinals-wallet/ordinals-collections)
