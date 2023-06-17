@@ -2,7 +2,8 @@
   <img height="15%" width="15%" src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-png-transparent.png"/>
 </h3>
 
-# Bitcoin Knowledge
+# Software Library Ordinals
+
 A collection of user-inscribed libraries available on the Bitcoin blockchain
 
 
@@ -18,18 +19,18 @@ A collection of user-inscribed libraries available on the Bitcoin blockchain
 ## Misc Links
 | Library | URL                                |
 | ---------- | ----------------------------------- |
-| bitcoin-api   | [Link][https://ordinals.com/content/773e4865bcf3084e6d6ee5d49136fb5f7071d4c050ec4aeeaeb9c6d24fea5fc1i0](https://github.com/bitcoin-api/bitcoin-api)         | 
-| Sat exploring   | [Link][https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
-| Ordinals github   | [Link][https://github.com/ordinals/)         | 
-| Ordinal Theory Handbook   | [Link][https://docs.ordinals.com/guides/sat-hunting.html)         | 
+| bitcoin-api   | [Link](https://github.com/bitcoin-api/bitcoin-api)         | 
+| Sat exploring   | [Link](https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
+| Ordinals github   | [Link](https://github.com/ordinals/)         | 
+| Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
 | Swatchbook   | [Link](https://vector-conversions.com/vector/pantone_color_swatchbook.pdf)         | 
-| Types of BTC public keys   | [Link][https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
-| Ordinal Inscriptions explained  | [Link][https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)         | 
-| Ordinals Standards Proposals  | [Link][https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
-| Bitcoin Core Docs | [Link][https://bitcoincore.org/en/doc/)         | 
-| Bitcoin RPC API Reference  | [Link][https://developer.bitcoin.org/reference/rpc/index.html)         | 
-| bips (Bitcoin Improvement Proposals)  | [Link][https://github.com/bitcoin/bips)         | 
-| What are Common, Uncommon and Rare Sats? | [Link][https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
+| Types of BTC public keys   | [Link](https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
+| Ordinal Inscriptions explained  | [Link](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)         | 
+| Ordinals Standards Proposals  | [Link](https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
+| Bitcoin Core Docs | [Link](https://bitcoincore.org/en/doc/)         | 
+| Bitcoin RPC API Reference  | [Link](https://developer.bitcoin.org/reference/rpc/index.html)         | 
+| bips (Bitcoin Improvement Proposals)  | [Link](https://github.com/bitcoin/bips)         | 
+| What are Common, Uncommon and Rare Sats? | [Link](https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
 
 
 ## Inscribing
