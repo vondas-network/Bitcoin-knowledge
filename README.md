@@ -4,7 +4,7 @@
 
 # Software Library Ordinals
 
-A collection of user-inscribed libraries available on the Bitcoin blockchain
+vA collection of user-inscribed libraries available on the Bitcoin blockchain
 
 
 ## Javascript libraries as Ordinals
@@ -17,7 +17,7 @@ A collection of user-inscribed libraries available on the Bitcoin blockchain
 | glsl-canvas.min.js     | [Link](https://ordinals.com/content/aeb29dfe6396589bd501f2be3478202a6ed75989cfc5ff49dd0d704b012c00eci0)            |
 
 ## Bitcoin Misc
-| Library | URL                                |
+| Description | URL                                |
 | ---------- | ----------------------------------- |
 | Sat exploring   | [Link](https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
 | Types of BTC public keys   | [Link](https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
@@ -25,23 +25,31 @@ A collection of user-inscribed libraries available on the Bitcoin blockchain
 | What are Common, Uncommon and Rare Sats? | [Link](https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
 
 ## Ordinals
+| Description | URL                                |
+| ---------- | ----------------------------------- |
 | Ordinal Inscriptions explained  | [Link](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)         | 
 | Ordinals Standards Proposals  | [Link](https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
 | Ordinals github   | [Link](https://github.com/ordinals/)         | 
 | Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
 
 ## Inscribing
+| Platform | URL                                |
+| ---------- | ----------------------------------- |
 | Gamma  | [Link][https://gamma.io/)         | 
 | looksordinal  | [Link][https://looksordinal.com/)         | 
 | UniSat  | [Link][https://unisat.io/)         | 
 
 ## APIs
+| Documentation | URL                                |
+| ---------- | ----------------------------------- |
 | Deezy  | [Link][deezy.io)         | 
 | bitcoin-api   | [Link](https://github.com/bitcoin-api/bitcoin-api)         | 
 | Bitcoin RPC API Reference  | [Link](https://developer.bitcoin.org/reference/rpc/index.html)         | 
 | Bitcoin Core Docs | [Link](https://bitcoincore.org/en/doc/)         | 
 
 ## Art
+| Info | URL                                |
+| ---------- | ----------------------------------- |
 | Swatchbook   | [Link](https://vector-conversions.com/vector/pantone_color_swatchbook.pdf)         | 
 
 
