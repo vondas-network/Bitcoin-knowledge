@@ -35,14 +35,14 @@ vA collection of user-inscribed libraries available on the Bitcoin blockchain
 ## Inscribing
 | Platform | URL                                |
 | ---------- | ----------------------------------- |
-| Gamma  | [Link][https://gamma.io/)         | 
-| looksordinal  | [Link][https://looksordinal.com/)         | 
-| UniSat  | [Link][https://unisat.io/)         | 
+| Gamma  | [Link](https://gamma.io/)         | 
+| looksordinal  | [Link](https://looksordinal.com/)         | 
+| UniSat  | [Link](https://unisat.io/)         | 
 
 ## APIs
 | Documentation | URL                                |
 | ---------- | ----------------------------------- |
-| Deezy  | [Link][deezy.io)         | 
+| Deezy  | [Link](deezy.io)         | 
 | bitcoin-api   | [Link](https://github.com/bitcoin-api/bitcoin-api)         | 
 | Bitcoin RPC API Reference  | [Link](https://developer.bitcoin.org/reference/rpc/index.html)         | 
 | Bitcoin Core Docs | [Link](https://bitcoincore.org/en/doc/)         | 
