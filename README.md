@@ -2,9 +2,9 @@
   <img height="15%" width="15%" src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-png-transparent.png"/>
 </h3>
 
-# Software Library Ordinals
+# Bitcoin Knowledge
 
-vA collection of user-inscribed libraries available on the Bitcoin blockchain
+A collection of links to benefit the Bitcoin community and artists alike.
 
 
 ## Javascript libraries as Ordinals
