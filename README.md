@@ -32,6 +32,7 @@ A collection of links to benefit the Bitcoin community and artists alike.
 | Ordinals github   | [Link](https://github.com/ordinals/)         | 
 | Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
 | Cursed Inscriptions on Magic Eden  | [Link](https://magiceden.io/ordinals/marketplace/cursed)         | 
+| Recursive Inscriptions: Creating a Collection from Shared Layers  | [Link](https://ordinalsbot.medium.com/recursive-inscriptions-creating-a-collection-from-shared-layers-b43a628144e8)         | 
 
 
 ## Inscribing
