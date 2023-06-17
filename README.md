@@ -31,6 +31,8 @@ A collection of links to benefit the Bitcoin community and artists alike.
 | Ordinals Standards Proposals  | [Link](https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
 | Ordinals github   | [Link](https://github.com/ordinals/)         | 
 | Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
+| Cursed Inscriptions on Magic Eden  | [Link](https://magiceden.io/ordinals/marketplace/cursed)         | 
+
 
 ## Inscribing
 | Platform | URL                                |
