@@ -4,7 +4,7 @@
 
 # Bitcoin Knowledge
 
-A collection of links to benefit the Bitcoin community and artists alike.
+A collection of Javascript libraries on the Bitcoin network & misc information.
 
 
 ## Javascript libraries as Ordinals
