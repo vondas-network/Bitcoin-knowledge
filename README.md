@@ -16,6 +16,7 @@ A collection of links to benefit the Bitcoin community and artists alike.
 | matter-js 0.19.0   | [Link](https://ordinals.com/content/9d567e6ef8bd6b13458cc67cc5e8339395a4433e45db4554ff83c88a5df8bae2i0)            |
 | glsl-canvas.min.js     | [Link](https://ordinals.com/content/aeb29dfe6396589bd501f2be3478202a6ed75989cfc5ff49dd0d704b012c00eci0)            |
 | axios.min.ja (1.4.0)     | [Link](https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0)            |
+| html2canvas (1.4.1)     | [Link](https://ordinals.com/content/be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0)            |
 
 ## Bitcoin Misc
 | Description | URL                                |
