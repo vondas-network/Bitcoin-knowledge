@@ -35,6 +35,7 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
 | Cursed Inscriptions on Magic Eden  | [Link](https://magiceden.io/ordinals/marketplace/cursed)         | 
 | Recursive Inscriptions: Creating a Collection from Shared Layers  | [Link](https://ordinalsbot.medium.com/recursive-inscriptions-creating-a-collection-from-shared-layers-b43a628144e8)         | 
+| bitmap  | [Link](https://gitbook.bitmap.land/1-project/home)         | 
 
 
 ## Inscribing
