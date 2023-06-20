@@ -17,6 +17,7 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | glsl-canvas.min.js     | [Link](https://ordinals.com/content/aeb29dfe6396589bd501f2be3478202a6ed75989cfc5ff49dd0d704b012c00eci0)            |
 | axios.min.js v1.4.0     | [Link](https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0)            |
 | html2canvas v1.4.1     | [Link](https://ordinals.com/content/be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0)            |
+| jsnes     | [Link](https://ordinals.com/content/3a4575b2a8fe6e7968146f290d494c2346d40ff692314050babcaa7268347f4bi0)            |
 
 ## Bitcoin
 | Description | URL                                |
