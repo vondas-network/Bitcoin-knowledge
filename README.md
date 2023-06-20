@@ -18,18 +18,21 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | axios.min.js v1.4.0     | [Link](https://ordinals.com/content/6b81993428a217a341ffd68f3b3aa3664b2cfc674d57aad0d3b6daa0f125b821i0)            |
 | html2canvas v1.4.1     | [Link](https://ordinals.com/content/be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0)            |
 
-## Bitcoin Misc
+## Bitcoin
 | Description | URL                                |
 | ---------- | ----------------------------------- |
 | Sat exploring   | [Link](https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
 | Types of BTC public keys   | [Link](https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
 | bips (Bitcoin Improvement Proposals)  | [Link](https://github.com/bitcoin/bips)         | 
 | What are Common, Uncommon and Rare Sats? | [Link](https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
+| How to use Mempool.Space | [Link](https://bitcoinbriefly.com/how-to-use-mempool-space-block-explorer/)         | 
+
 
 ## Ordinals
 | Description | URL                                |
 | ---------- | ----------------------------------- |
 | Ordinal Inscriptions explained  | [Link](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)         | 
+| Dune Analytics - Inscriptions on Bitcoin  | [Link](https://dune.com/dataalways/ordinals)         | 
 | Ordinals Standards Proposals  | [Link](https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
 | Ordinals github   | [Link](https://github.com/ordinals/)         | 
 | Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
