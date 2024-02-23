@@ -27,6 +27,7 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | bips (Bitcoin Improvement Proposals)  | [Link](https://github.com/bitcoin/bips)         | 
 | What are Common, Uncommon and Rare Sats? | [Link](https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
 | How to use Mempool.Space | [Link](https://bitcoinbriefly.com/how-to-use-mempool-space-block-explorer/)         | 
+| UXTO explained | [Link](https://www.xverse.app/blog/utxo-management) |
 
 
 ## Ordinals
