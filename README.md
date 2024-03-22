@@ -31,6 +31,7 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | Bitcoin’s UTXO Model: What Is It and How To Manage UTXOs | [Link]([https://www.xverse.app/blog/utxo-management](https://river.com/learn/bitcoins-utxo-model/#:~:text=UTXO%20Model%3A%20the%20balance%20in,balance%20figure%20with%20each%20transaction.)) |
 | What is the Double Spend Problem? | [Link](https://river.com/learn/what-is-the-double-spend-problem/) |
 | Coinbase Transactions | [Link](https://river.com/learn/terms/c/coinbase/) |
+| What is Bitcoin UTXO Management? | [Link](https://river.com/learn/bitcoins-utxo-model/#what-is-bitcoin-utxo-management) |
 
 
 ## Ordinals
