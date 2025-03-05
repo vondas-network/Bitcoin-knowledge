@@ -6,6 +6,32 @@
 
 A collection of Javascript libraries on the Bitcoin network & misc information.
 
+## Bitcoin
+| Description | URL                                |
+| ---------- | ----------------------------------- |
+| Sat exploring   | [Link](https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
+| Types of BTC public keys   | [Link](https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
+| bips (Bitcoin Improvement Proposals)  | [Link](https://github.com/bitcoin/bips)         | 
+| What are Common, Uncommon and Rare Sats? | [Link](https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
+| How to use Mempool.Space | [Link](https://bitcoinbriefly.com/how-to-use-mempool-space-block-explorer/)         | 
+| UXTO explained | [Link](https://www.xverse.app/blog/utxo-management) |
+| Bitcoin’s UTXO Model: What Is It and How To Manage UTXOs | [Link](https://river.com/learn/bitcoins-utxo-model/#:~:text=UTXO%20Model%3A%20the%20balance%20in,balance%20figure%20with%20each%20transaction.) |
+| What is the Double Spend Problem? | [Link](https://river.com/learn/what-is-the-double-spend-problem/) |
+| Coinbase Transactions | [Link](https://river.com/learn/terms/c/coinbase/) |
+| What is Bitcoin UTXO Management? | [Link](https://river.com/learn/bitcoins-utxo-model/#what-is-bitcoin-utxo-management) |
+
+
+## Ordinals
+| Description | URL                                |
+| ---------- | ----------------------------------- |
+| Ordinal Inscriptions explained  | [Link](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)         | 
+| Dune Analytics - Inscriptions on Bitcoin  | [Link](https://dune.com/dataalways/ordinals)         | 
+| Ordinals Standards Proposals  | [Link](https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
+| Ordinals github   | [Link](https://github.com/ordinals/)         | 
+| Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
+| Cursed Inscriptions on Magic Eden  | [Link](https://magiceden.io/ordinals/marketplace/cursed)         | 
+| Recursive Inscriptions: Creating a Collection from Shared Layers  | [Link](https://ordinalsbot.medium.com/recursive-inscriptions-creating-a-collection-from-shared-layers-b43a628144e8)         | 
+| bitmap  | [Link](https://gitbook.bitmap.land/1-project/home)         | 
 
 ## Software libraries as Ordinals
 | Filename |                                 Description |  
@@ -92,39 +118,6 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | [GLSL.js](https://ordinals.com/content/43d9759b13f3e5d27d995c9a52a6e4d47db47dfafe77635aceb00c442e60723bi0) | 
 | [marked v15.0.0](https://ordinals.com/content/11f03f2ff6fe35b1f82c655e6f8a709881c51b51f25e260aa071d79a5c331d90i0) | 
 | [eshaz/wasm-audio-decoders](https://ordinals.com/content/808b350000597027855b9dbe770d27ab8b7766cb5e3b0b7c4bd4c05e4a164808i0) | 
-
-
-
-
-
-
-## Bitcoin
-| Description | URL                                |
-| ---------- | ----------------------------------- |
-| Sat exploring   | [Link](https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
-| Types of BTC public keys   | [Link](https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
-| bips (Bitcoin Improvement Proposals)  | [Link](https://github.com/bitcoin/bips)         | 
-| What are Common, Uncommon and Rare Sats? | [Link](https://blog.ordinalhub.com/what-are-common-uncommon-and-rare-sats/)         | 
-| How to use Mempool.Space | [Link](https://bitcoinbriefly.com/how-to-use-mempool-space-block-explorer/)         | 
-| UXTO explained | [Link](https://www.xverse.app/blog/utxo-management) |
-| Bitcoin’s UTXO Model: What Is It and How To Manage UTXOs | [Link](https://river.com/learn/bitcoins-utxo-model/#:~:text=UTXO%20Model%3A%20the%20balance%20in,balance%20figure%20with%20each%20transaction.) |
-| What is the Double Spend Problem? | [Link](https://river.com/learn/what-is-the-double-spend-problem/) |
-| Coinbase Transactions | [Link](https://river.com/learn/terms/c/coinbase/) |
-| What is Bitcoin UTXO Management? | [Link](https://river.com/learn/bitcoins-utxo-model/#what-is-bitcoin-utxo-management) |
-
-
-## Ordinals
-| Description | URL                                |
-| ---------- | ----------------------------------- |
-| Ordinal Inscriptions explained  | [Link](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)         | 
-| Dune Analytics - Inscriptions on Bitcoin  | [Link](https://dune.com/dataalways/ordinals)         | 
-| Ordinals Standards Proposals  | [Link](https://patches-1.gitbook.io/ordinals-standards-discussions/)         | 
-| Ordinals github   | [Link](https://github.com/ordinals/)         | 
-| Ordinal Theory Handbook   | [Link](https://docs.ordinals.com/guides/sat-hunting.html)         | 
-| Cursed Inscriptions on Magic Eden  | [Link](https://magiceden.io/ordinals/marketplace/cursed)         | 
-| Recursive Inscriptions: Creating a Collection from Shared Layers  | [Link](https://ordinalsbot.medium.com/recursive-inscriptions-creating-a-collection-from-shared-layers-b43a628144e8)         | 
-| bitmap  | [Link](https://gitbook.bitmap.land/1-project/home)         | 
-
 
 ## Inscribing
 | Platform | URL                                |
