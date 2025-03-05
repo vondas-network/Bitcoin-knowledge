@@ -53,7 +53,6 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | [leva@0.9.35](https://ordinals.com/content/609bad601cdafa4d4a2622bbd9f4ebfdd278b8c5ea1efeb0d468db33f871fffai2) | React-first components GUI |
 | [react-three/fiber@8.17.5](https://ordinals.com/content/609b3c8bf30265688d17feedfa679a59e607d58a4acd6c9804429a3aa376c5a4i0) | 
 | [react-three/drei](https://ordinals.com/content/609b3c8bf30265688d17feedfa679a59e607d58a4acd6c9804429a3aa376c5a4i1) | 
-
 | [react-dom@18.3.1/client](https://ordinals.com/content/4d9308ce08bed11c028acb3d1dd964ea0e9809f51daf141ca0760e745a8070aei0) | 
 | [xemantic/shader-web-background](https://ordinals.com/content/4935b900a0c5e3e1d898b52c6e39bcd127a1fb301afc5a3d18ca07e6a7fc5069i0) | 
 | [OrdJS Library](https://ordinals.com/content/4123e324aa3508ae7021a43a1dfc2d9d83fc35029d092877c57234f729068526i0) | 
