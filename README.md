@@ -66,7 +66,32 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 | [pixelwave.min.js](https://ordinals.com/content/e52900d66ab68d750d8d868b065cc0c4b21dafd3852c53ce1fffe07f862ad3d3i0) | 
 | [p5.webm-capture.min.js](https://ordinals.com/content/16a4ce4de6015f877bc5bb25c0ab0b4a9e758188141e77c4949e8168c5238823i1) | 
 | [GSAP 3.12.5](https://ordinals.com/content/601fee70572824725e7e4467a1b65b5e717088812a8e3c00166829c6f93cb86bi5) | 
-
+| [gif.js 0.2.0](https://ordinals.com/content/61fb6a3bcfdc43f587a0c5a95a76ae53dc020e0b0668ea0e827b3cc423c0ec8di0) | 
+| [gif.worker.js 0.2.0](https://ordinals.com/content/61fb6a3bcfdc43f587a0c5a95a76ae53dc020e0b0668ea0e827b3cc423c0ec8di1) | 
+| [p5.glitch v0.1.3](https://ordinals.com/content/a499bb004988202e0e4e6be6dbe9a8dd28fc9565b5182f78a25cfea7d4ee4c67i0) | 
+| [peeinears/Stereogram.js](https://ordinals.com/content/188a04bd09d2289c74bff53c663d07f0a7afa0c85db7defb435c69f21f1ffb05i0) | 
+| [Snes9x](https://ordinals.com/content/7ddb126b857ab42876f90b61c63a3c80e809911e0c3636b211cae38336a5c395i1) | 
+| [cbor-js](https://ordinals.com/content/cc89b50bcb0d5a2c7de7f940ff739327303ef4b0e2c3208b74d7890b69a4ef9ci0) | The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript. |
+| [node_process.js](https://ordinals.com/content/0f584de472b8fbb9bd91f36a6f6bfb1bbbf99c54ba0dcad727cee1e6b9cc9714i0) | 
+| [p5.js v1.11.2](https://ordinals.com/content/13a5c8e41dfc110514b450b2f15317988c0aaf276d3dbdcca9aa3c7d0b2188a7i0) | 
+| [p5.js v1.9.2](https://ordinals.com/content/7e37766541506810ba6399c4b2735121f508bd9209df43dd200bf2316b014594i0) | 
+| [p5.sound v1.0.1](https://ordinals.com/content/156fda5d80cc40c3831c4a922a16a5e34e805ef30ea74d9909f730a5be62b787i0) | 
+| [css-doodle@0.38.4](https://ordinals.com/content/5340dfc70f6c48e6d32f0348a154948acc0cee152b64da28dfa5b67ad90ea05di0) | 
+| [easymde v2.18.0](https://ordinals.com/content/814195d8e791fc321960b4070cdb00b6627e4bffbeca0eb6742750de4b88f802i0) | 
+| [fflate@0.8.0](https://ordinals.com/content/f815bd5c566c6e46de5cdb6ccb3a7043c63deeba61f4234baea84b602b0d4440i0) | High performance (de)compression in an 8kB package |
+| [Bootstrap v5.3.0](https://ordinals.com/content/3bcfdc4e97209ecaaab06705b52ba6b7fc9d1cee77404ac15e655ce691a44654i0) | 
+| [Highlight.js](https://ordinals.com/content/41d856597a8474e7124a0641b54afb77bc034f800e1be8fe02a20b55023ff4a7i0) | 
+| [MathJax.js](https://ordinals.com/content/dfcddc2ef31d803379729a87912d9246091f83303584cea31786ec189e8dc234i0) | 
+| [DOMPurify 3.1.2](https://ordinals.com/content/9125599e7e8dc04ca41ed2726135cbd5493a9d5a8fb5cfc1e97074d9b85960aei0) | 
+| [webm-muxer](https://ordinals.com/content/9a1e4d3af9ba1eaf96953512dc54b61524d7623f810a46c97897dcdc251dbf6ai0) | 
+| [@popperjs/core v2.11.8](https://ordinals.com/content/dcb205828669fece54d4040224190838bbe22b6d137ae9fc38c4b42f0777148ai0) | 
+| [brc333tags.js](https://ordinals.com/content/46f2efc2e1363a1d6349bba1bdb8e135f09a6025feffc7c1b64cf2e7112fc848i0) | 
+| [html2canvas 1.4.1](https://ordinals.com/content/be2585187c2e016b654ecc1f207fa73c38e55eee404cdf709346c4511689d24ai0) | 
+| [OrPePen: v1.0](https://ordinals.com/content/5312f036125842c6c19687d36316082c70a39715d7885347e4f3a46c73417fc7i0) | Recursive Inscriptions for the culture of Pepe |
+| [anime.js v3.2.1](https://ordinals.com/content/23ad98a190933e5c238b57e05814acc154d55928edf02d298cc82f4fac0313fei0) | 
+| [GLSL.js](https://ordinals.com/content/43d9759b13f3e5d27d995c9a52a6e4d47db47dfafe77635aceb00c442e60723bi0) | 
+| [marked v15.0.0](https://ordinals.com/content/11f03f2ff6fe35b1f82c655e6f8a709881c51b51f25e260aa071d79a5c331d90i0) | 
+| [eshaz/wasm-audio-decoders](https://ordinals.com/content/808b350000597027855b9dbe770d27ab8b7766cb5e3b0b7c4bd4c05e4a164808i0) | 
 
 
 
